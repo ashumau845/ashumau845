@@ -6,7 +6,7 @@ I'm Ashu from India, and I do Android App Development and Maintenance . I really
 
 Skills: Android/ Java/ Kotlin / HTML / CSS
 
-- 🔭 I’m currently working on OneRoof Technologies LLP 
+- 🔭 I’m currently working on Nimap Infotech LLP 
 - 🌱 I’m currently learning Kotlin ,architecture like MVVM, Coroutines  
 - 📫 How to reach me: Connect me on fb,linkedin,github 
 
