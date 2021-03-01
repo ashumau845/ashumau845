@@ -1,6 +1,5 @@
 ### Hi there 👋, My Name is Ashu Maurya
 #### I am a Learner and by profession Android Developer
-(https://media-exp1.licdn.com/dms/image/C4E16AQHqeokLHjLqIw/profile-displaybackgroundimage-shrink_350_1400/0?e=1607558400&v=beta&t=B9vEpU_N-Hja_x7vng_QKL2vWtOpBGNDiB1Z_vA73HQ)
 
 I'm Ashu from India, and I do Android App Development and Maintenance . I really enjoy learning languages and frameworks like Android Studio and Visual Studio. I also do freelancing.
 
